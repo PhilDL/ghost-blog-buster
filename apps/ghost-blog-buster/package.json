@@ -47,14 +47,14 @@
     "jiti": "^1.21.0",
     "ts-node": "^10.9.2",
     "tsup": "^8.0.2",
-    "typescript": "5.6.2",
+    "typescript": "5.7.3",
     "vite": "^5.2.10",
     "vite-tsconfig-paths": "^4.3.2",
     "vitest": "^1.5.0"
   },
   "dependencies": {
-    "@clack/core": "^0.3.3",
-    "@clack/prompts": "^0.7.0",
+    "@clack/core": "^0.4.0",
+    "@clack/prompts": "^0.9.0",
     "@ts-ghost/admin-api": "^4.2.1",
     "@ts-ghost/content-api": "^4.1.0",
     "configstore": "^7.0.0",
@@ -62,7 +62,7 @@
     "node-html-markdown": "^1.3.0",
     "picocolors": "^1.0.0",
     "yargs": "^17.7.2",
-    "zod": "3.23.8"
+    "zod": "3.24.1"
   },
   "publishConfig": {
     "access": "public"
